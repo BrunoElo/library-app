@@ -1,6 +1,15 @@
 {
   "name": "ngx-stuff",
   "version": "0.0.1",
+  "description": "A library that just does stuff",
+  "keywords": [
+    "stuff",
+    "brunoelo"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/BrunoElo/library-app/projects/ngx-stuff"
+  },
   "peerDependencies": {
     "@angular/common": "^14.0.0",
     "@angular/core": "^14.0.0"
